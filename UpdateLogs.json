@@ -1,4 +1,9 @@
 {
+  "Update3":{
+    "UpdateDate":"2023~08~08",
+    "UpdateName":"Preperation Update",
+    "UpdateDesc":"~Prepping for a Export to the main game,\nThis is just a testing server so alot of features may be missing...\n\n~This Will be converted to a Carbon copy of the main game, from there\nNew features and such will be added and tested here. \n\n~Data here will save but will NOT replicate to the main game. \nThis protects users from Data issues\n\n--------------------------------------------------------\n\t\t\t\tUpcoming in Update 4:\n~Treegen will be added, Along with some systems for an ecosystem\n~Birds/Basic animal will be added\n~Terrain Menu revamp(Might put into the new menu from this server)\nalong with that im considering adding a Property manager GUI for this stuff\n\n~Future Preperations for Update 5 (Mentioned in Update 2)\n\n--------------------------------------------------------\n\t\t\tThats all for now\n\tPS: i will be more active soon but i will be moving VERY soon so updates may slow down a bit. After im all set back up i will continue development on weekends!\n\t\t\t"
+  },
   "Update2":{
     "UpdateDate":"2023~07~29",
     "UpdateName":"Security Update V1",
